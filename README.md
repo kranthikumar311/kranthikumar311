@@ -31,19 +31,15 @@ I am a results-driven **Automation Test Engineer** specializing in designing and
 
 ---
 
----
-
 ### 📊 GitHub Activity
 
-<p align="center">
-   <img src="https://github-readme-stats.vercel.app/api?username=kranthikumar311&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Kranthi's GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kranthikumar311&layout=compact&theme=radical&hide_border=true" alt="Top Langs" />
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kranthikumar311&show_icons=true&theme=radical&count_private=true&hide_border=true" alt="GitHub Stats" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kranthikumar311&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="170" />
+</div>
 
 ---
 
----
 
 ### 📫 Connect with Me
 * 📍 **Location:** Calgary, Alberta, Canada
