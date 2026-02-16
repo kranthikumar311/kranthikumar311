@@ -38,7 +38,7 @@ I am a results-driven **Automation Test Engineer** specializing in designing and
 ---
 
 ### 📫 Connect with Me
-* 📍 **Location:** Badangpet, Hyderabad, India
+* 📍 **Location:** Calgary, Alberta, Canada
 * 🔭 **Currently Learning:** Advanced Python Automation & Flutter for cross-platform testing.
 * 💬 **Ask me about:** BDD Frameworks, API Testing, and CI/CD pipelines.
 
