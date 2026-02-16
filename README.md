@@ -31,9 +31,17 @@ I am a results-driven **Automation Test Engineer** specializing in designing and
 
 ---
 
+---
+
 ### 📊 GitHub Activity
-![Kranthi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kranthikumar311&show_icons=true&theme=radical&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kranthikumar311&layout=compact&theme=radical&hide_border=true)
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kranthikumar311&show_icons=true&theme=radical&hide_border=true" alt="Kranthi's GitHub Stats" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kranthikumar311&layout=compact&theme=radical&hide_border=true" alt="Top Langs" />
+</p>
+
+---
 
 ---
 
